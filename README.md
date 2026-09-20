@@ -2,22 +2,20 @@
 
 ### Software Engineer & AI Enthusiast
 
-5th-year Software Engineering student at **USTHB**, specializing in
-Artificial Intelligence, Full-Stack Development and Data Engineering.
+5th-year Software Engineering student at **USTHB**, exploring
+Artificial Intelligence, Full-Stack Development and modern software technologies.
 
-I enjoy building intelligent, scalable and practical digital solutions,
-from data analysis and machine learning models to web applications and APIs.
+I enjoy learning, building and experimenting with technologies to turn
+ideas into useful and practical digital solutions.
 
 ---
 
 ## 👩🏻‍💻 About Me
 
 - 🎓 5th-year **Software Engineering student @ USTHB**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 💻 Full-Stack Developer with **React.js & Laravel**
-- 📊 Interested in **Data Engineering & Business Intelligence**
-- 🧠 Experience with Machine Learning, Deep Learning and model deployment
-- 🔧 I enjoy working across the full project lifecycle — from data to deployment
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 💻 Full-Stack Developer
+- 🌱 Always learning and building new projects
 - 📍 Algiers, Algeria
 
 ---
@@ -36,8 +34,7 @@ from data analysis and machine learning models to web applications and APIs.
 </p>
 
 **Machine Learning:**  
-Classification • Clustering • Feature Engineering • Model Evaluation •
-Hyperparameter Tuning • Cross-Validation • SHAP • SMOTE
+Classification • Clustering • Feature Engineering • Model Evaluation • Hyperparameter Tuning • Cross-Validation • SHAP • SMOTE
 
 **Deep Learning:**  
 CNNs • LSTM • Transfer Learning • Feature Extraction
@@ -56,20 +53,6 @@ CNNs • LSTM • Transfer Learning • Feature Extraction
 </p>
 
 REST APIs • Authentication • E-Commerce • Frontend Development
-
----
-
-### 📊 Data Engineering & Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0D2B4D?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20NiFi-0D2B4D?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debezium-0D2B4D?style=for-the-badge&logo=debezium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0D2B4D?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-0D2B4D?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-Data Warehousing • Real-Time Analytics • CDC • Data Pipelines • Superset
 
 ---
 
@@ -107,20 +90,6 @@ clustering algorithms from scratch.
 
 ---
 
-### 📊 Real-Time BI & AI Pipeline
-
-A real-time data architecture connecting operational data to
-Business Intelligence and Artificial Intelligence workflows.
-
-**Architecture:**
-
-`Debezium → Kafka → NiFi → Data Warehouse → Superset`
-
-Includes AI use cases such as forecasting, customer segmentation
-and anomaly detection.
-
----
-
 ### 🛒 Full-Stack E-Commerce Platform
 
 A complete e-commerce application built with **React.js** and
@@ -146,10 +115,10 @@ A complete e-commerce application built with **React.js** and
 Worked on real-time BI architecture, machine learning modules,
 REST APIs and data-driven dashboards.
 
-### Full-Stack Developer Intern
+### Full-Stack Developer Intern — SlickPay
 
-Developed a complete e-commerce platform using React.js and Laravel,
-including authentication, product management and administration.
+Developed full-stack web solutions using **React.js** and **Laravel**,
+working on frontend development, backend APIs and application features.
 
 ---
 
@@ -161,7 +130,5 @@ Artificial Intelligence
 Machine Learning
         ↓
 Deep Learning
-        ↓
-Data Engineering
         ↓
 AI Engineering
