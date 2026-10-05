@@ -16,13 +16,6 @@ I build things at the crossroads of machine learning and full-stack development.
   <img src="https://img.shields.io/badge/Docker-0D2B4D?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
-
-- 🎙️ **Speech Emotion Recognition**: YAMNet transfer learning + XGBoost (Kaggle competition)
-- 📉 **Customer Churn Prediction**: end-to-end ML pipeline with SHAP explainability, deployed with FastAPI & Streamlit
-- 🧠 **ML Platform**: 7+ ML and clustering algorithms implemented from scratch (KNN, Random Forest, K-Means, DBSCAN…)
-- 🛒 **E-Commerce Platform**: full-stack app with React.js & Laravel (Sanctum auth, admin dashboard, reviews)
-
 ## 💼 Experience
 
 - **BI & AI Intern @ SIG**: explored a real-time BI pipeline (Kafka, NiFi, Superset) and AI use cases on warehouse data
