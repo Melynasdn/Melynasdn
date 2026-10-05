@@ -1,134 +1,33 @@
 # Hi, I'm Melyna Feriel 👋
 
-### Software Engineer & AI Enthusiast
-
-5th-year Software Engineering student at **USTHB**, exploring
-Artificial Intelligence, Full-Stack Development and modern software technologies.
-
-I enjoy learning, building and experimenting with technologies to turn
-ideas into useful and practical digital solutions.
-
----
-
-## 👩🏻‍💻 About Me
-
-- 🎓 5th-year **Software Engineering student @ USTHB**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Full-Stack Developer
-- 🌱 Always learning and building new projects
-- 📍 Algiers, Algeria
-
----
+5th-year **Software Engineering** student at **USTHB** (Algiers), specializing in **Artificial Intelligence**.
+I build things at the crossroads of machine learning and full-stack development.
 
 ## 🛠️ Tech Stack
 
-### 🤖 Artificial Intelligence & Machine Learning
-
 <p>
   <img src="https://img.shields.io/badge/Python-0D2B4D?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D2B4D?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-0D2B4D?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-0D2B4D?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-0D2B4D?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-0D2B4D?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-**Machine Learning:**  
-Classification • Clustering • Feature Engineering • Model Evaluation • Hyperparameter Tuning • Cross-Validation • SHAP • SMOTE
-
-**Deep Learning:**  
-CNNs • LSTM • Transfer Learning • Feature Extraction
-
----
-
-### 💻 Full-Stack Development
-
-<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D2B4D?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-0D2B4D?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-0D2B4D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-0D2B4D?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-0D2B4D?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D2B4D?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-0D2B4D?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0D2B4D?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-REST APIs • Authentication • E-Commerce • Frontend Development
-
----
 
 ## 🚀 Featured Projects
 
-### 🎙️ Audio Speech Emotion Recognition
-
-A speech emotion recognition pipeline combining **YAMNet**,
-transfer learning and **XGBoost**.
-
-**Tech:** Python • TensorFlow • YAMNet • XGBoost
-
----
-
-### 📉 Customer Churn Classification
-
-An end-to-end machine learning pipeline for customer churn prediction.
-
-**Pipeline:**
-
-`EDA → Feature Engineering → SMOTE → Model Benchmarking → SHAP → Deployment`
-
-**Tech:** Python • Scikit-learn • XGBoost • SHAP • FastAPI • Streamlit
-
----
-
-### 🧠 Machine Learning Platform
-
-An interactive platform implementing multiple machine learning and
-clustering algorithms from scratch.
-
-**Algorithms:**
-
-`KNN • Random Forest • K-Means • DBSCAN • AGNES • DIANA • K-Medoids`
-
----
-
-### 🛒 Full-Stack E-Commerce Platform
-
-A complete e-commerce application built with **React.js** and
-**Laravel**.
-
-**Features:**
-
-- Dynamic product catalog
-- Shopping cart
-- RESTful backend
-- Sanctum authentication
-- Admin dashboard
-- Product reviews and moderation
-
----
+- 🎙️ **Speech Emotion Recognition**: YAMNet transfer learning + XGBoost (Kaggle competition)
+- 📉 **Customer Churn Prediction**: end-to-end ML pipeline with SHAP explainability, deployed with FastAPI & Streamlit
+- 🧠 **ML Platform**: 7+ ML and clustering algorithms implemented from scratch (KNN, Random Forest, K-Means, DBSCAN…)
+- 🛒 **E-Commerce Platform**: full-stack app with React.js & Laravel (Sanctum auth, admin dashboard, reviews)
 
 ## 💼 Experience
 
-### BI & AI Intern — SIG
+- **BI & AI Intern @ SIG**: explored a real-time BI pipeline (Kafka, NiFi, Superset) and AI use cases on warehouse data
+- **Full-Stack Developer Intern @ SlickPay**: React.js & Laravel web development
 
-**Business Intelligence & Artificial Intelligence**
+## 📫 Contact
 
-Worked on real-time BI architecture, machine learning modules,
-REST APIs and data-driven dashboards.
-
-### Full-Stack Developer Intern — SlickPay
-
-Developed full-stack web solutions using **React.js** and **Laravel**,
-working on frontend development, backend APIs and application features.
-
----
-
-## 📚 Currently Exploring
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-AI Engineering
+[LinkedIn](https://www.linkedin.com/in/melyna-soudani-823373228/) · melynaferiel.soudani@gmail.com
